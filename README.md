@@ -1,6 +1,6 @@
 <h2> Hi, I'm Alperen Yılmaz</h2>
 
-[![Linkedin: alperen](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ialperenyilmaz/)](https://www.linkedin.com/in/ialperenyilmaz) [![Medium: alperen](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@alperenylmaz61)](https://medium.com/@alperenylmaz61) [![Twitter Follow](https://img.shields.io/twitter/follow/ialperenylmaz?label=Follow)]
+[![Linkedin: alperen](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ialperenyilmaz/)](https://www.linkedin.com/in/ialperenyilmaz) [![Medium: alperen](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@alperenylmaz61)](https://medium.com/@alperenylmaz61)
 (https://github.com/xayilmaz) ![](https://visitor-badge.glitch.me/badge?page_id=xayilmaz.xayilmaz)
 
 <em>Software Engineer
